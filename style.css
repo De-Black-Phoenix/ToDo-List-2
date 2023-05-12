@@ -106,7 +106,12 @@ body {
     }
 
     .main_container { 
+        width: 80%;
         flex-direction: column;
+    }
+
+    .task_container {
+        width: 80%;
     }
 
     .container-1 {
